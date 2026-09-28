@@ -2,3 +2,5 @@ Bonne blague
 "amine blague" 
 Celle-ci est une blague.
 Nouvelle blague de Abdessamad.
+Celle-ci est une blague."nouvelle blague" 
+
